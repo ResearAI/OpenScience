@@ -1,0 +1,80 @@
+OpenScience Personal and Research Use License
+Version 1.0
+
+Copyright (c) 2026 ResearAI. All rights reserved.
+
+This license governs the OpenScience desktop application, release packages,
+documentation, update metadata, and other materials made available by ResearAI
+through this repository or the OpenScience website, unless a separate written
+agreement or a different license is expressly provided for a specific component.
+
+1. Permitted Use
+
+You may download and use OpenScience for personal use, academic research,
+internal non-commercial research, teaching, and evaluation purposes, subject to
+this license.
+
+2. Commercial Use Requires Permission
+
+You may not use OpenScience for commercial purposes without prior written
+permission from ResearAI. Commercial purposes include, without limitation:
+
+- use in revenue-generating products, services, workflows, or deliverables;
+- enterprise deployment or managed internal deployment for business operations;
+- paid consulting, contract research, or professional services;
+- SaaS, hosted, managed, or third-party access services;
+- redistribution, resale, sublicensing, rental, leasing, or bundling;
+- use to build, train, evaluate, or operate a competing commercial product or service.
+
+Commercial licensing is available by written agreement. Contact:
+resear.ai@gmail.com
+
+3. Restrictions
+
+Without prior written permission from ResearAI, you may not:
+
+- copy, redistribute, sell, sublicense, rent, lease, or host OpenScience for third parties;
+- reverse engineer, decompile, disassemble, or attempt to derive the source code,
+  except to the extent such restriction is prohibited by applicable law;
+- remove or alter copyright, trademark, attribution, update, telemetry, or license notices;
+- bypass technical restrictions, license checks, update mechanisms, or access controls;
+- use OpenScience in violation of applicable laws, regulations, third-party rights,
+  or research ethics requirements.
+
+4. Ownership
+
+OpenScience is licensed, not sold. ResearAI and its licensors retain all rights,
+title, and interest in and to OpenScience, including all intellectual property
+rights not expressly granted in this license.
+
+5. Third-Party Components
+
+OpenScience may include or interact with third-party components, packages,
+models, APIs, and services. Those components may be governed by their own
+licenses or terms. You are responsible for complying with applicable third-party
+terms.
+
+6. No Warranty
+
+OpenScience is provided "as is" and "as available", without warranty of any kind,
+express or implied, including but not limited to warranties of merchantability,
+fitness for a particular purpose, non-infringement, accuracy, availability, or
+fitness for scientific, medical, legal, regulatory, or commercial use.
+
+7. Limitation of Liability
+
+To the maximum extent permitted by law, ResearAI will not be liable for any
+indirect, incidental, special, consequential, exemplary, or punitive damages, or
+for any loss of profits, data, goodwill, research opportunity, business
+interruption, or other losses arising from or related to OpenScience.
+
+8. Termination
+
+This license terminates automatically if you violate its terms. Upon termination,
+you must stop using OpenScience and delete all copies in your possession or
+control, unless otherwise permitted by a separate written agreement.
+
+9. No Implied Rights
+
+No rights are granted except those expressly stated in this license. Any use not
+expressly permitted requires prior written permission from ResearAI.
